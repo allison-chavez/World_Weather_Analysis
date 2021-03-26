@@ -4,4 +4,5 @@ The purpose of this analysis was to help Jack develop features with the PlanMyTr
 Through this app we were able to give the user the ability to customize their trip based on city, country, max and minimum temperatures.
 
 ![alt text](https://github.com/allison-chavez/World_Weather_Analysis/blob/main/Vacation_Search/WeatherPy_Vacation_map.png)
+![alt_text](https://github.com/allison-chavez/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png)
 ![alt text](https://github.com/allison-chavez/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers4.png)
